@@ -1,0 +1,30 @@
+# Vivado generated files
+Implementation/bnn.cache/
+Implementation/bnn.hw/
+Implementation/bnn.ip_user_files/
+Implementation/bnn.sim/
+Implementation/bnn.runs/
+Implementation/bnn.srcs/
+Implementation/bnn.ioplanning/
+Implementation/.Xil/
+
+# Simulation outputs
+Implementation/testbench/*.log
+Implementation/testbench/*.wlf
+Implementation/testbench/work/
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# IDE
+*.swp
+*.swo
+*~
+
+# ModelSim
+work/
+transcript
+*.wlf
+*.vstf
+*.ucdb
